@@ -1,0 +1,7 @@
+{
+  "name": "yogemay16dev",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
